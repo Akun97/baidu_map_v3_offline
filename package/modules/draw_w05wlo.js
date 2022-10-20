@@ -1,0 +1,1 @@
+/**/_jsload2&&_jsload2('draw', 'function Th(){}var Uh=Th.prototype;Uh.xF=ca();Uh.No=function(){aa("addLine\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};Uh.setAttribute=function(){aa("setAttribute\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};Uh.Sd=function(){aa("setPath\\u63a5\\u53e3\\u6ca1\\u6709\\u5b9e\\u73b0")};Uh.Bp=u("Pb");A.jz=Th; ');
